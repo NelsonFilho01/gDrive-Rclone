@@ -9,7 +9,7 @@
 
 DIR_ORIGEM="$HOME/Músicas" #<-- Alterar aqui (esse diretório é o que você quer sincronizar)
 
-DIR_DESTINO="gDrive:/Linux//Musicas"         #<-- Alterar aqui (esse é o drive que você configurou)
+DIR_DESTINO="gDrive:/Windows/Musicas"         #<-- Alterar aqui (esse é o drive que você configurou)
 
 DIR_MONTAGEM="$HOME/"      #<- Alterar aqui (esse é o diretório para a montagem; ele deve estar vazio)
 

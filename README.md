@@ -4,10 +4,10 @@
 # O serviço usa o Rclone para fazer as operações na nuvem
 
 
-##### O serviço cuida de preparar grande parte do ambiente para o backup e da recuperação, mas você ainda precisa configurar cada repositorio remoto,
+> O serviço cuida de preparar grande parte do ambiente para o backup e da recuperação, mas você ainda precisa configurar cada repositorio remoto,
 ##### caso o backup e recuperação sejam multidirecionais, cada nuvem deve ter seu repositorio e cada repositorio deve estar no Shell Script que 
 
-> O serviço vem configurado por padrão para o Google Drive
+##### O serviço vem configurado por padrão para o Google Drive
 
 #### É interessante que quem for usar configure um cliente proprio na nuvem desejava
 

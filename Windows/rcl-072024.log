@@ -724,3 +724,228 @@ Transferred:   	   10.309 KiB / 10.309 KiB, 100%, 0 B/s, ETA -
 Transferred:            1 / 1, 100%
 Elapsed time:         2.3s
 
+#Friday, 05 July 2024#
+2024/07/05 12:00:58 INFO  : Cópia de teste.jpg: Copied (new)
+2024/07/05 12:00:58 INFO  : Saved Pictures: Removing directory
+2024/07/05 12:00:58 INFO  : Camera Roll: Removing directory
+2024/07/05 12:00:58 INFO  : 
+Transferred:   	   10.309 KiB / 10.309 KiB, 100%, 0 B/s, ETA -
+Deleted:                0 (files), 2 (dirs), 0 B (freed)
+Transferred:            1 / 1, 100%
+Elapsed time:         2.8s
+
+#Friday, 05 July 2024#
+2024/07/05 12:01:18 INFO  : Saved Pictures: Removing directory
+2024/07/05 12:01:18 INFO  : Camera Roll: Removing directory
+2024/07/05 12:01:18 INFO  : There was nothing to transfer
+2024/07/05 12:01:18 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Deleted:                0 (files), 2 (dirs), 0 B (freed)
+Elapsed time:         2.0s
+
+#Friday, 05 July 2024#
+2024/07/05 12:01:21 INFO  : Cópia de teste.jpg: Copied (new)
+2024/07/05 12:01:21 INFO  : 
+Transferred:   	   10.309 KiB / 10.309 KiB, 100%, 0 B/s, ETA -
+Transferred:            1 / 1, 100%
+Elapsed time:         3.0s
+
+#Friday, 05 July 2024#
+2024/07/05 12:01:39 INFO  : Saved Pictures: Removing directory
+2024/07/05 12:01:39 INFO  : Camera Roll: Removing directory
+2024/07/05 12:01:39 INFO  : There was nothing to transfer
+2024/07/05 12:01:39 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Deleted:                0 (files), 2 (dirs), 0 B (freed)
+Elapsed time:         1.6s
+
+#Friday, 05 July 2024#
+2024/07/05 12:01:41 INFO  : There was nothing to transfer
+2024/07/05 12:01:41 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 12:01:44 INFO  : teste.jpg: Copied (new)
+2024/07/05 12:01:44 INFO  : Captures: Removing directory
+2024/07/05 12:01:44 INFO  : 
+Transferred:   	   10.309 KiB / 10.309 KiB, 100%, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Deleted:                0 (files), 1 (dirs), 0 B (freed)
+Transferred:            1 / 1, 100%
+Elapsed time:         2.3s
+
+#Friday, 05 July 2024#
+2024/07/05 12:02:50 INFO  : Saved Pictures: Removing directory
+2024/07/05 12:02:50 INFO  : Camera Roll: Removing directory
+2024/07/05 12:02:50 INFO  : There was nothing to transfer
+2024/07/05 12:02:50 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Deleted:                0 (files), 2 (dirs), 0 B (freed)
+Elapsed time:         1.6s
+
+#Friday, 05 July 2024#
+2024/07/05 12:02:53 INFO  : There was nothing to transfer
+2024/07/05 12:02:53 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         1.6s
+
+#Friday, 05 July 2024#
+2024/07/05 12:02:55 INFO  : Captures: Removing directory
+2024/07/05 12:02:55 INFO  : There was nothing to transfer
+2024/07/05 12:02:55 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 2 / 2, 100%
+Deleted:                0 (files), 1 (dirs), 0 B (freed)
+Elapsed time:         1.6s
+
+#Friday, 05 July 2024#
+2024/07/05 12:02:57 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/05 12:02:57 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/05 12:02:57 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/05 12:02:58 INFO  : Cópia de teste.jpg: Copied (new)
+2024/07/05 12:02:58 INFO  : 
+Transferred:   	   10.309 KiB / 10.309 KiB, 100%, 0 B/s, ETA -
+Transferred:            1 / 1, 100%
+Elapsed time:         2.4s
+
+#Friday, 05 July 2024#
+2024/07/05 12:03:35 INFO  : Cópia de teste.jpg: Copied (new)
+2024/07/05 12:03:35 INFO  : Saved Pictures: Removing directory
+2024/07/05 12:03:35 INFO  : Camera Roll: Removing directory
+2024/07/05 12:03:35 INFO  : 
+Transferred:   	   10.309 KiB / 10.309 KiB, 100%, 0 B/s, ETA -
+Deleted:                0 (files), 2 (dirs), 0 B (freed)
+Transferred:            1 / 1, 100%
+Elapsed time:         2.5s
+
+#Friday, 05 July 2024#
+2024/07/05 12:03:38 INFO  : Cópia de teste.jpg: Copied (new)
+2024/07/05 12:03:38 INFO  : 
+Transferred:   	   10.309 KiB / 10.309 KiB, 100%, 0 B/s, ETA -
+Transferred:            1 / 1, 100%
+Elapsed time:         2.3s
+
+#Friday, 05 July 2024#
+2024/07/05 12:03:41 INFO  : teste.jpg: Copied (new)
+2024/07/05 12:03:41 INFO  : Captures: Removing directory
+2024/07/05 12:03:41 INFO  : 
+Transferred:   	   10.309 KiB / 10.309 KiB, 100%, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Deleted:                0 (files), 1 (dirs), 0 B (freed)
+Transferred:            1 / 1, 100%
+Elapsed time:         2.6s
+
+#Friday, 05 July 2024#
+2024/07/05 12:03:43 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/05 12:03:43 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/05 12:03:43 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/05 12:03:44 INFO  : Cópia de teste.jpg: Copied (new)
+2024/07/05 12:03:44 INFO  : 
+Transferred:   	   10.309 KiB / 10.309 KiB, 100%, 0 B/s, ETA -
+Transferred:            1 / 1, 100%
+Elapsed time:         2.4s
+
+#Friday, 05 July 2024#
+2024/07/05 12:03:55 INFO  : There was nothing to transfer
+2024/07/05 12:03:55 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 12:03:57 INFO  : There was nothing to transfer
+2024/07/05 12:03:57 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 12:03:59 INFO  : There was nothing to transfer
+2024/07/05 12:03:59 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 2 / 2, 100%
+Elapsed time:         1.6s
+
+#Friday, 05 July 2024#
+2024/07/05 12:04:01 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/05 12:04:01 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/05 12:04:01 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/05 12:04:01 INFO  : There was nothing to transfer
+2024/07/05 12:04:01 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         1.6s
+
+#Friday, 05 July 2024#
+2024/07/05 12:10:00 INFO  : There was nothing to transfer
+2024/07/05 12:10:00 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         1.7s
+
+#Friday, 05 July 2024#
+2024/07/05 12:10:03 INFO  : There was nothing to transfer
+2024/07/05 12:10:03 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 12:10:05 INFO  : There was nothing to transfer
+2024/07/05 12:10:05 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 2 / 2, 100%
+Elapsed time:         1.6s
+
+#Friday, 05 July 2024#
+2024/07/05 12:10:07 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/05 12:10:07 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/05 12:10:07 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/05 12:10:07 INFO  : There was nothing to transfer
+2024/07/05 12:10:07 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 12:10:18 INFO  : Saved Pictures: Removing directory
+2024/07/05 12:10:18 INFO  : Camera Roll: Removing directory
+2024/07/05 12:10:18 INFO  : There was nothing to transfer
+2024/07/05 12:10:18 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Deleted:                0 (files), 2 (dirs), 0 B (freed)
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 12:10:20 INFO  : There was nothing to transfer
+2024/07/05 12:10:20 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 12:10:22 INFO  : Captures: Removing directory
+2024/07/05 12:10:22 INFO  : There was nothing to transfer
+2024/07/05 12:10:22 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 2 / 2, 100%
+Deleted:                0 (files), 1 (dirs), 0 B (freed)
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 12:10:24 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/05 12:10:24 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/05 12:10:24 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/05 12:10:24 INFO  : There was nothing to transfer
+2024/07/05 12:10:24 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         1.5s
+

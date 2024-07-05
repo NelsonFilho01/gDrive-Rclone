@@ -1,6 +1,16 @@
 ## Cliente Multi Cloud CLI
 
 
+
+
+
+
+
+
+
+
+
+
 # O serviço usa o Rclone para fazer as operações na nuvem
 
 

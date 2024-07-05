@@ -687,3 +687,40 @@ Deleted:                1 (files), 0 (dirs), 5.991 KiB (freed)
 Transferred:            1 / 1, 100%
 Elapsed time:         2.3s
 
+#Friday, 05 July 2024#
+2024/07/05 11:44:22 INFO  : Cópia de teste.jpg: Copied (new)
+2024/07/05 11:44:22 INFO  : Saved Pictures: Removing directory
+2024/07/05 11:44:22 INFO  : Camera Roll: Removing directory
+2024/07/05 11:44:22 INFO  : 
+Transferred:   	   10.309 KiB / 10.309 KiB, 100%, 0 B/s, ETA -
+Deleted:                0 (files), 2 (dirs), 0 B (freed)
+Transferred:            1 / 1, 100%
+Elapsed time:         2.5s
+
+#Friday, 05 July 2024#
+2024/07/05 11:44:25 INFO  : Cópia de teste.jpg: Copied (new)
+2024/07/05 11:44:25 INFO  : 
+Transferred:   	   10.309 KiB / 10.309 KiB, 100%, 0 B/s, ETA -
+Transferred:            1 / 1, 100%
+Elapsed time:         2.2s
+
+#Friday, 05 July 2024#
+2024/07/05 11:44:28 INFO  : teste.jpg: Copied (new)
+2024/07/05 11:44:28 INFO  : Captures: Removing directory
+2024/07/05 11:44:28 INFO  : 
+Transferred:   	   10.309 KiB / 10.309 KiB, 100%, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Deleted:                0 (files), 1 (dirs), 0 B (freed)
+Transferred:            1 / 1, 100%
+Elapsed time:         2.3s
+
+#Friday, 05 July 2024#
+2024/07/05 11:44:30 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/05 11:44:30 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/05 11:44:30 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/05 11:44:31 INFO  : Cópia de teste.jpg: Copied (new)
+2024/07/05 11:44:31 INFO  : 
+Transferred:   	   10.309 KiB / 10.309 KiB, 100%, 0 B/s, ETA -
+Transferred:            1 / 1, 100%
+Elapsed time:         2.3s
+

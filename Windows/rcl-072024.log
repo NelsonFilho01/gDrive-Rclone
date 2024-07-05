@@ -1,0 +1,611 @@
+#Thursday, 04 July 2024#
+2024/07/04 18:01:13 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:01:13 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:01:13 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:01:13 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 18:01:13 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:01:13 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:01:13 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:01:13 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 18:01:14 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:01:14 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:01:14 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:01:14 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 18:01:14 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         3.6s
+
+2024/07/04 18:01:14 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 18:02:54 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:02:54 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:02:54 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:02:54 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 18:02:54 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:02:54 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:02:54 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:02:54 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 18:02:55 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:02:55 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:02:55 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:02:55 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 18:02:55 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:        12.7s
+
+2024/07/04 18:02:55 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 18:05:29 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:05:29 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:05:29 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:05:29 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 18:05:29 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:05:29 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:05:29 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:05:29 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 18:05:30 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:05:30 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:05:30 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:05:30 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 18:05:30 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         4.0s
+
+2024/07/04 18:05:30 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 18:06:24 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:06:24 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:06:24 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:06:24 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 18:06:25 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:06:25 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:06:25 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:06:25 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 18:06:27 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:06:27 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:06:27 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:06:27 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 18:06:27 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         6.0s
+
+2024/07/04 18:06:27 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 18:07:45 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:07:45 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:07:45 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:07:45 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 18:07:45 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:07:45 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:07:45 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:07:45 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 18:07:46 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:07:46 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:07:46 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:07:46 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 18:07:46 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         3.2s
+
+2024/07/04 18:07:46 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 18:08:01 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:08:01 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:08:01 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:08:01 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 18:08:02 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:08:02 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:08:02 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:08:02 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 18:08:03 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:08:03 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:08:03 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:08:03 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 18:08:03 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         3.1s
+
+2024/07/04 18:08:03 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 18:09:36 ERROR : Local file system at //?/C:/Users/Rothmans/Músicas: error reading source root directory: directory not found
+2024/07/04 18:09:36 ERROR : Google drive root 'Windows/Musicas': not deleting files as there were IO errors
+2024/07/04 18:09:36 ERROR : Google drive root 'Windows/Musicas': not deleting directories as there were IO errors
+2024/07/04 18:09:36 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 18:09:37 ERROR : Local file system at //?/C:/Users/Rothmans/Músicas: error reading source root directory: directory not found
+2024/07/04 18:09:37 ERROR : Google drive root 'Windows/Musicas': not deleting files as there were IO errors
+2024/07/04 18:09:37 ERROR : Google drive root 'Windows/Musicas': not deleting directories as there were IO errors
+2024/07/04 18:09:37 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 18:09:37 ERROR : Local file system at //?/C:/Users/Rothmans/Músicas: error reading source root directory: directory not found
+2024/07/04 18:09:37 ERROR : Google drive root 'Windows/Musicas': not deleting files as there were IO errors
+2024/07/04 18:09:37 ERROR : Google drive root 'Windows/Musicas': not deleting directories as there were IO errors
+2024/07/04 18:09:37 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 18:09:37 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         2.8s
+
+2024/07/04 18:09:37 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 18:14:22 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:14:22 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:14:22 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:14:22 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 18:14:22 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:14:22 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:14:22 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:14:22 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 18:14:23 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:14:23 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:14:23 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:14:23 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 18:14:23 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:        13.7s
+
+2024/07/04 18:14:23 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 18:19:39 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:19:39 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:19:39 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:19:39 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 18:19:40 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:19:40 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:19:40 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:19:40 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 18:19:40 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:19:40 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:19:40 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:19:40 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 18:19:40 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         3.3s
+
+2024/07/04 18:19:40 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 18:19:54 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:19:54 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:19:54 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:19:54 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 18:19:54 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:19:54 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:19:54 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:19:54 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 18:19:56 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:19:56 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:19:56 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:19:56 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 18:19:56 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         5.7s
+
+2024/07/04 18:19:56 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 18:21:31 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:21:31 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:21:31 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:21:31 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 18:21:32 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:21:32 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:21:32 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:21:32 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 18:21:32 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:21:32 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:21:32 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:21:32 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 18:21:32 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         3.1s
+
+2024/07/04 18:21:32 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 18:25:12 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:25:12 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:25:12 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:25:12 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 18:25:12 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:25:12 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:25:12 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:25:12 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 18:25:13 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:25:13 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:25:13 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:25:13 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 18:25:13 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         4.0s
+
+2024/07/04 18:25:13 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 18:26:44 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:26:44 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:26:44 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:26:44 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 18:26:44 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:26:44 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:26:44 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:26:44 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 18:26:45 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 18:26:45 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 18:26:45 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 18:26:45 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 18:26:45 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         3.0s
+
+2024/07/04 18:26:45 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 21:44:20 INFO  : There was nothing to transfer
+2024/07/04 21:44:20 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         2.9s
+
+#Thursday, 04 July 2024#
+2024/07/04 21:44:23 INFO  : There was nothing to transfer
+2024/07/04 21:44:23 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         2.4s
+
+#Thursday, 04 July 2024#
+2024/07/04 21:44:26 INFO  : There was nothing to transfer
+2024/07/04 21:44:26 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         2.3s
+
+#Thursday, 04 July 2024#
+2024/07/04 21:44:29 INFO  : There was nothing to transfer
+2024/07/04 21:44:29 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         2.3s
+
+#Thursday, 04 July 2024#
+2024/07/04 21:44:36 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 21:44:36 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 21:44:36 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 21:44:36 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 21:44:37 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 21:44:37 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 21:44:37 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 21:44:37 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 21:44:37 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 21:44:37 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 21:44:37 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 21:44:37 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 21:44:37 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         3.2s
+
+2024/07/04 21:44:37 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 21:47:27 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 21:47:27 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 21:47:27 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 21:47:27 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 21:47:27 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 21:47:27 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 21:47:27 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 21:47:27 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 21:47:28 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 21:47:28 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 21:47:28 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 21:47:28 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 21:47:28 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         3.2s
+
+2024/07/04 21:47:28 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 21:50:11 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 21:50:11 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 21:50:11 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 21:50:11 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 21:50:12 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 21:50:12 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 21:50:12 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 21:50:12 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 21:50:12 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 21:50:12 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 21:50:12 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 21:50:12 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 21:50:12 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         4.1s
+
+2024/07/04 21:50:12 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 22:17:09 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 22:17:09 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 22:17:09 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 22:17:09 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 22:17:10 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 22:17:10 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 22:17:10 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 22:17:10 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 22:17:10 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 22:17:10 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 22:17:10 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 22:17:10 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 22:17:10 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         3.5s
+
+2024/07/04 22:17:10 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 22:18:01 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 22:18:01 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 22:18:01 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 22:18:01 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 22:18:01 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 22:18:01 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 22:18:01 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 22:18:01 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 22:18:02 ERROR : Local file system at //?/C:/Users/Rothmans/Imagens: error reading source root directory: directory not found
+2024/07/04 22:18:02 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/04 22:18:02 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/04 22:18:02 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 22:18:02 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         3.7s
+
+2024/07/04 22:18:02 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 22:39:17 INFO  : teste_Imagens.docx: Copied (Rcat, new)
+2024/07/04 22:39:17 INFO  : Saved Pictures/desktop.ini: Deleted
+2024/07/04 22:39:17 INFO  : Camera Roll/desktop.ini: Deleted
+2024/07/04 22:39:17 INFO  : desktop.ini: Deleted
+2024/07/04 22:39:17 INFO  : Saved Pictures: Removing directory
+2024/07/04 22:39:17 INFO  : Camera Roll: Removing directory
+2024/07/04 22:39:17 INFO  : 
+Transferred:   	    5.992 KiB / 5.992 KiB, 100%, 0 B/s, ETA -
+Checks:                 3 / 3, 100%
+Deleted:                3 (files), 2 (dirs), 884 B (freed)
+Transferred:            2 / 2, 100%
+Elapsed time:         4.0s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:39:21 ERROR : Google drive root 'Windows/Musica': error reading source root directory: directory not found
+2024/07/04 22:39:21 ERROR : Local file system at //?/C:/Users/Rothmans/Music: not deleting files as there were IO errors
+2024/07/04 22:39:21 ERROR : Local file system at //?/C:/Users/Rothmans/Music: not deleting directories as there were IO errors
+2024/07/04 22:39:21 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 22:39:21 ERROR : Google drive root 'Windows/Musica': error reading source root directory: directory not found
+2024/07/04 22:39:21 ERROR : Local file system at //?/C:/Users/Rothmans/Music: not deleting files as there were IO errors
+2024/07/04 22:39:21 ERROR : Local file system at //?/C:/Users/Rothmans/Music: not deleting directories as there were IO errors
+2024/07/04 22:39:21 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 22:39:22 ERROR : Google drive root 'Windows/Musica': error reading source root directory: directory not found
+2024/07/04 22:39:22 ERROR : Local file system at //?/C:/Users/Rothmans/Music: not deleting files as there were IO errors
+2024/07/04 22:39:22 ERROR : Local file system at //?/C:/Users/Rothmans/Music: not deleting directories as there were IO errors
+2024/07/04 22:39:22 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 22:39:22 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         3.6s
+
+2024/07/04 22:39:22 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 22:44:00 INFO  : Saved Pictures: Removing directory
+2024/07/04 22:44:00 INFO  : Camera Roll: Removing directory
+2024/07/04 22:44:00 INFO  : There was nothing to transfer
+2024/07/04 22:44:00 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Deleted:                0 (files), 2 (dirs), 0 B (freed)
+Elapsed time:         2.3s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:44:04 ERROR : Google drive root 'Windows/Musica': error reading source root directory: directory not found
+2024/07/04 22:44:04 ERROR : Local file system at //?/C:/Users/Rothmans/Music: not deleting files as there were IO errors
+2024/07/04 22:44:04 ERROR : Local file system at //?/C:/Users/Rothmans/Music: not deleting directories as there were IO errors
+2024/07/04 22:44:04 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/04 22:44:04 ERROR : Google drive root 'Windows/Musica': error reading source root directory: directory not found
+2024/07/04 22:44:04 ERROR : Local file system at //?/C:/Users/Rothmans/Music: not deleting files as there were IO errors
+2024/07/04 22:44:04 ERROR : Local file system at //?/C:/Users/Rothmans/Music: not deleting directories as there were IO errors
+2024/07/04 22:44:04 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/04 22:44:05 ERROR : Google drive root 'Windows/Musica': error reading source root directory: directory not found
+2024/07/04 22:44:05 ERROR : Local file system at //?/C:/Users/Rothmans/Music: not deleting files as there were IO errors
+2024/07/04 22:44:05 ERROR : Local file system at //?/C:/Users/Rothmans/Music: not deleting directories as there were IO errors
+2024/07/04 22:44:05 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/04 22:44:05 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         4.0s
+
+2024/07/04 22:44:05 Failed to sync: directory not found
+#Thursday, 04 July 2024#
+2024/07/04 22:44:54 INFO  : Saved Pictures: Removing directory
+2024/07/04 22:44:54 INFO  : Camera Roll: Removing directory
+2024/07/04 22:44:54 INFO  : There was nothing to transfer
+2024/07/04 22:44:54 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Deleted:                0 (files), 2 (dirs), 0 B (freed)
+Elapsed time:         2.7s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:44:59 INFO  : Teste-Musica.docx: Copied (Rcat, new)
+2024/07/04 22:44:59 INFO  : desktop.ini: Deleted
+2024/07/04 22:44:59 INFO  : 
+Transferred:   	    5.980 KiB / 5.980 KiB, 100%, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Deleted:                1 (files), 0 (dirs), 504 B (freed)
+Transferred:            2 / 2, 100%
+Elapsed time:         3.8s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:45:03 INFO  : Documento sem título.docx: Copied (Rcat, new)
+2024/07/04 22:45:03 INFO  : desktop.ini: Deleted
+2024/07/04 22:45:03 INFO  : Captures/desktop.ini: Deleted
+2024/07/04 22:45:03 INFO  : Captures: Removing directory
+2024/07/04 22:45:03 INFO  : 
+Transferred:   	    5.997 KiB / 5.997 KiB, 100%, 0 B/s, ETA -
+Checks:                 2 / 2, 100%
+Deleted:                2 (files), 1 (dirs), 694 B (freed)
+Transferred:            2 / 2, 100%
+Elapsed time:         3.6s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:45:05 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/04 22:45:05 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/04 22:45:05 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/04 22:45:08 INFO  : Teste- Documentos.docx: Copied (Rcat, new)
+2024/07/04 22:45:08 INFO  : desktop.ini: Deleted
+2024/07/04 22:45:08 INFO  : PowerShell: Removing directory
+2024/07/04 22:45:08 INFO  : 
+Transferred:   	    5.991 KiB / 5.991 KiB, 100%, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Deleted:                1 (files), 1 (dirs), 402 B (freed)
+Transferred:            2 / 2, 100%
+Elapsed time:         3.6s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:46:04 INFO  : Saved Pictures: Removing directory
+2024/07/04 22:46:04 INFO  : Camera Roll: Removing directory
+2024/07/04 22:46:04 INFO  : There was nothing to transfer
+2024/07/04 22:46:04 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Deleted:                0 (files), 2 (dirs), 0 B (freed)
+Elapsed time:         2.4s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:46:07 INFO  : There was nothing to transfer
+2024/07/04 22:46:07 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         2.1s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:46:10 INFO  : Captures: Removing directory
+2024/07/04 22:46:10 INFO  : There was nothing to transfer
+2024/07/04 22:46:10 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Deleted:                0 (files), 1 (dirs), 0 B (freed)
+Elapsed time:         2.3s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:46:13 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/04 22:46:13 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/04 22:46:13 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/04 22:46:13 INFO  : There was nothing to transfer
+2024/07/04 22:46:13 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         2.3s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:53:00 INFO  : Camera Roll/desktop.ini: Copied (new)
+2024/07/04 22:53:00 INFO  : desktop.ini: Copied (new)
+2024/07/04 22:53:00 INFO  : Capturar.PNG: Copied (new)
+2024/07/04 22:53:02 INFO  : Camera Roll: Set directory modification time (using DirSetModTime)
+2024/07/04 22:53:02 INFO  : 
+Transferred:   	  129.424 KiB / 129.424 KiB, 100%, 16.024 KiB/s, ETA 0s
+Checks:                 1 / 1, 100%
+Transferred:            3 / 3, 100%
+Elapsed time:        10.8s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:53:06 INFO  : There was nothing to transfer
+2024/07/04 22:53:06 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         3.1s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:53:09 INFO  : There was nothing to transfer
+2024/07/04 22:53:09 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         2.4s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:53:12 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/04 22:53:12 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/04 22:53:12 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/04 22:53:13 INFO  : There was nothing to transfer
+2024/07/04 22:53:13 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         2.5s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:53:35 INFO  : Saved Pictures: Removing directory
+2024/07/04 22:53:35 INFO  : There was nothing to transfer
+2024/07/04 22:53:35 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 4 / 4, 100%
+Deleted:                0 (files), 1 (dirs), 0 B (freed)
+Elapsed time:         2.6s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:53:39 INFO  : There was nothing to transfer
+2024/07/04 22:53:39 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         2.7s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:53:42 INFO  : Captures: Removing directory
+2024/07/04 22:53:42 INFO  : There was nothing to transfer
+2024/07/04 22:53:42 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Deleted:                0 (files), 1 (dirs), 0 B (freed)
+Elapsed time:         2.5s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:53:44 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/04 22:53:44 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/04 22:53:44 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/04 22:53:45 INFO  : There was nothing to transfer
+2024/07/04 22:53:45 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         2.1s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:55:18 INFO  : There was nothing to transfer
+2024/07/04 22:55:18 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 4 / 4, 100%
+Elapsed time:         2.9s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:55:21 INFO  : There was nothing to transfer
+2024/07/04 22:55:21 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         2.2s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:55:24 INFO  : There was nothing to transfer
+2024/07/04 22:55:24 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         2.3s
+
+#Thursday, 04 July 2024#
+2024/07/04 22:55:26 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/04 22:55:26 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/04 22:55:26 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/04 22:55:27 INFO  : There was nothing to transfer
+2024/07/04 22:55:27 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         2.2s
+

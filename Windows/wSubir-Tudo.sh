@@ -3,33 +3,22 @@
 
 
 
-# Sincronizando Área de Trabalho
-chmod +x AreaTrabalho.sh
-echo "Sincronizando Área de Trabalho..."
-./AreaTrabalho.sh -s
-if [ $? -ne 0 ]; then
-    echo "Erro ao sincronizar Área de Trabalho. Verifique o log para mais detalhes."
-    exit 1
-fi
-echo "Area de Trabalho já foi"
 
-
-
-chmod +x Imagens.sh
+chmod +x WImagens.sh
 echo "Sincronizando Imagens..."
-./Imagens.sh -s
+./WImagens.sh -s
 if [ $? -ne 0 ]; then
     echo "Erro ao sincronizar Área de Trabalho. Verifique o log para mais detalhes."
     exit 1
 fi
-echo "Imagens.sh foi"
+echo "Imagens foi"
 
 
 
 # Sincronizando Músicas
-chmod +x Musicas.sh
+chmod +x WMusicas.sh
 echo "Sincronizando Músicas..."
-./Musicas.sh -s
+./WMusicas.sh -s
 if [ $? -ne 0 ]; then
     echo "Erro ao sincronizar Músicas. Verifique o log para mais detalhes."
     exit 1
@@ -39,9 +28,9 @@ echo "Musicas já foi"
 
 
 # Sincronizando Vídeos
-chmod +x Videos.sh
+chmod +x WVideos.sh
 echo "Sincronizando Vídeos..."
-./Videos.sh -s
+./WVideos.sh -s
 if [ $? -ne 0 ]; then
     echo "Erro ao sincronizar Vídeos. Verifique o log para mais detalhes."
     exit 1
@@ -50,9 +39,9 @@ echo "Videos já foi"
 
 
 # Sincronizando Documentos
-chmod +x Documentos.sh
+chmod +x WDocumentos.sh
 echo "Sincronizando Documentos..."
-./Documentos.sh -s
+./WDocumentos.sh -s
 if [ $? -ne 0 ]; then
     echo "Erro ao sincronizar Documentos. Verifique o log para mais detalhes."
     exit 1

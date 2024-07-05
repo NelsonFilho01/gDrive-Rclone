@@ -7,11 +7,10 @@
 
 # Inverta os diretórios se você costuma sincronizar da nuvem para sua máquina
 
-DIR_ORIGEM="$HOME/Documentos" #<-- Alterar aqui (esse diretório é o que você quer sincronizar)
+DIR_ORIGEM="C:/Users/Rothmans/Documents"  #<-- Alterar aqui (esse diretório é o que você quer sincronizar)
+DIR_DESTINO="gDrive:/Windows/Documentos"   #<-- Alterar aqui (esse é o drive que você configurou)
+DIR_MONTAGEM="C:/Users/Rothmans/mount"  #<- Alterar aqui (esse é o diretório para a montagem; ele deve estar vazio)
 
-DIR_DESTINO="gDrive:/Linux/Documentos"         #<-- Alterar aqui (esse é o drive que você configurou)
-
-DIR_MONTAGEM="$HOME/"      #<- Alterar aqui (esse é o diretório para a montagem; ele deve estar vazio)
 
 VERDE="\033[32;1m"
 AMARELO="\033[33;1m"

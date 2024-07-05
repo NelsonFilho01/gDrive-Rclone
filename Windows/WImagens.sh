@@ -1,7 +1,4 @@
 
-# -------------------------------------------------------------------------------------------------------------------------- #
-# ------------------------------------------------ VARIÁVEIS------------------------------------------------- #
-
 # Altere aqui para o seu serviço remoto. O padrão é o sincronismo da máquina para nuvem
 
 # Inverta os diretórios se você costuma sincronizar da nuvem para sua máquina
@@ -10,45 +7,21 @@ DIR_ORIGEM="C:/Users/Rothmans/Pictures"  #<-- Alterar aqui (esse diretório é o
 DIR_DESTINO="gDrive:/Windows/Imagens"   #<-- Alterar aqui (esse é o drive que você configurou)
 DIR_MONTAGEM="C:/Users/Rothmans/mount"  #<- Alterar aqui (esse é o diretório para a montagem; ele deve estar vazio)
 
-VERDE="\033[32;1m"
-AMARELO="\033[33;1m"
-VERMELHO="\033[31;1m"
-SEMCOR="\033[0m"
+# -------------------------------------------------------------------------------------------------------------------------- #
 
 LOG="$(date +%m%Y)"
 ARQUIVO_LOG="rcl-$LOG.log"
 MENSAGEM_LOG="#$(date "+%A, %d %B %Y")#" 
 
-MENU="
-  $0 [-OPÇÃO]
-    
-    -s  Sincronizar o dispositivo
-    -d  Montar o dispositivo
-    -l  Listar arquivos
-    -v  Verificar arquivos
-    -i  Informações de armazenamento
-    -a  Agendar sincronização e/ou montagem
-    -m  Ver o manual do rclone
-    -c  Configurar o rclone
-    -u  Atualizar o rclone
-    -h  Ajuda deste menu
-"
-AJUDA="
-    $0 [-h] [--help]
-    
-        -s  Sincroniza os arquivos da nuvem <---> máquina local
-        -d  Monta o drive na sua máquina local
-        -l  Lista os arquivos e diretórios da nuvem
-        -v  Verifica diferenças entra a nuvem e a máquina local
-        -i  Exibe informações de armazenamento da nuvem (espaço total, usado, livre)
-        -a  Agenda a sincronização e/ou a montagem com a ferramenta crontab
-        -m  Exibe o manual do rclone
-        -c  Configura o rclone para a nuvem
-        -u  Atualiza o rclone para versão mais recente
-        -h, --help  Exibe esta tela de ajuda e sai
-"
 # -------------------------------------------------------------------------------------------------------------------------- #
-# ------------------------------------------------- TESTES -------------------------------------------------- # 
+
+VERDE="\033[32;1m"
+AMARELO="\033[33;1m"
+VERMELHO="\033[31;1m"
+SEMCOR="\033[0m"
+
+# -------------------------------------------------------------------------------------------------------------------------- #
+
 #curl instalado?
 [ ! -x "$(which curl)" ] && {
   echo -e "\n${AMARELO}Verificando dependências...\n${SEMCOR}"
@@ -63,8 +36,9 @@ AJUDA="
   sudo apt install ./rclone-current-linux-amd64.deb -y && sudo apt -f install
   rm rclone-current-linux-amd64.deb
 }
+
 # -------------------------------------------------------------------------------------------------------------------------- #
-# ------------------------------------------------- FUNÇÕES ------------------------------------------------- #
+
 Agendar () { crontab -e && exit; }
 
 Atualizar() { 
@@ -86,6 +60,8 @@ Atualizar() {
   fi
 }
 
+# -------------------------------------------------------------------------------------------------------------------------- #
+
 Configurar () { rclone config && clear && exit; }
 
 Informacao () { rclone about "$DIR_DESTINO" && exit; }
@@ -93,6 +69,8 @@ Informacao () { rclone about "$DIR_DESTINO" && exit; }
 Listar () { rclone tree "$DIR_DESTINO" && exit; }
 
 Manual () { man rclone && exit; }
+
+# -------------------------------------------------------------------------------------------------------------------------- #
 
 Montar () {
   rclone mount "$DIR_DESTINO" "$DIR_MONTAGEM" &
@@ -125,40 +103,40 @@ Verifica_status () {
     echo -e "\n${VERMELHO}Erros encontrados. Verifique o arquivo $ARQUIVO_LOG. \n" && tput sgr0 && exit 1
   fi
 }
-# -------------------------------------------------------------------------------------------------------------------------- #
-# ------------------------------------------------- EXECUÇÃO ------------------------------------------------ #
-echo -e "\n Sincronização com rclone \n $MENU"
+
+
+
 while [ -n "$1" ]; do
   case "$1" in
-    -a) clear && echo -e "${AMARELO}Agendamento da sincronização \n" && tput sgr0
+    -a)  echo -e "${AMARELO}Agendamento da sincronização \n" && tput sgr0
         Agendar
      ;; 
-    -c) clear && echo -e "${AMARELO}Configuração do rclone \n" && tput sgr0
+    -c)  echo -e "${AMARELO}Configuração do rclone \n" && tput sgr0
         Configurar
      ;;
-    -d) clear && echo -e "${AMARELO}Montagem do dispositivo remoto \n"
+    -d)  echo -e "${AMARELO}Montagem do dispositivo remoto \n"
         Montar
      ;;
     -h | --help) echo -e "${AMARELO}$AJUDA \n" && tput sgr0 && exit 0        
      ;;  
-    -i) clear && echo -e "${AMARELO}Informações de armazenamento \n" && tput sgr0
+    -i)  echo -e "${AMARELO}Informações de armazenamento \n" && tput sgr0
         Informacao
      ;;  
-    -l) clear && echo -e "${AMARELO}Listar arquivos e diretórios \n" && tput sgr0
+    -l)  echo -e "${AMARELO}Listar arquivos e diretórios \n" && tput sgr0
         Listar
      ;;
-    -m) clear && Manual
+    -m)  Manual
      ;;
-    -r) clear && echo -e "${AMARELO}Receber arquivos da nuvem \n" && tput sgr0
+    -r)  echo -e "${AMARELO}Receber arquivos da nuvem \n" && tput sgr0
         Receber
      ;;
-    -s) clear && echo -e "${AMARELO}Sincronizar na nuvem \n" && tput sgr0
+    -s)  echo -e "${AMARELO}Sincronizar na nuvem \n" && tput sgr0
         Sincronizar
      ;;
-    -u) clear && echo -e "${AMARELO}Atualização do Rclone\n" && tput sgr0
+    -u)  echo -e "${AMARELO}Atualização do Rclone\n" && tput sgr0
         Atualizar
      ;;
-    -v) clear && echo -e "${AMARELO}Verificação de arquivos \n" && tput sgr0
+    -v)  echo -e "${AMARELO}Verificação de arquivos \n" && tput sgr0
         Verificar     
      ;;    
      *) echo -e "${VERMELHO}Opção inválida. Digite $0 [-OPÇÃO] \n" && tput sgr0
@@ -166,4 +144,3 @@ while [ -n "$1" ]; do
      ;;   
   esac
 done  
-# -------------------------------------------------------------------------------------------------------------------------- #

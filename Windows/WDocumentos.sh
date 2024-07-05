@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-#
+
 # Altere aqui para o seu serviço remoto. O padrão é o sincronismo da máquina para nuvem
 
 # Inverta os diretórios se você costuma sincronizar da nuvem para sua máquina
@@ -81,6 +80,7 @@ Sincronizar () {
   rclone -vP sync --progress "$DIR_ORIGEM" "$DIR_DESTINO" --log-file="$ARQUIVO_LOG"
   Verifica_status
 }
+
 
 Receber () {
   echo "$MENSAGEM_LOG" >> "$ARQUIVO_LOG"

@@ -1653,3 +1653,499 @@ Elapsed time:         1.6s
 Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
 Elapsed time:         1.5s
 
+#Friday, 05 July 2024#
+2024/07/05 14:12:48 ERROR : Local file system at //?/C:/Users/Rothmans/Pictures/*: error reading source root directory: directory not found
+2024/07/05 14:12:48 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/05 14:12:48 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/05 14:12:48 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/05 14:12:48 ERROR : Local file system at //?/C:/Users/Rothmans/Pictures/*: error reading source root directory: directory not found
+2024/07/05 14:12:48 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/05 14:12:48 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/05 14:12:48 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/05 14:12:48 ERROR : Local file system at //?/C:/Users/Rothmans/Pictures/*: error reading source root directory: directory not found
+2024/07/05 14:12:48 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/05 14:12:48 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/05 14:12:48 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/05 14:12:48 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         2.1s
+
+2024/07/05 14:12:48 Failed to sync: directory not found
+#Friday, 05 July 2024#
+2024/07/05 14:20:51 ERROR : Local file system at //?/C:/Users/Rothmans/Pictures/*/*: error reading source root directory: directory not found
+2024/07/05 14:20:51 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/05 14:20:51 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/05 14:20:51 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+2024/07/05 14:20:51 ERROR : Local file system at //?/C:/Users/Rothmans/Pictures/*/*: error reading source root directory: directory not found
+2024/07/05 14:20:51 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/05 14:20:51 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/05 14:20:51 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+2024/07/05 14:20:52 ERROR : Local file system at //?/C:/Users/Rothmans/Pictures/*/*: error reading source root directory: directory not found
+2024/07/05 14:20:52 ERROR : Google drive root 'Windows/Imagens': not deleting files as there were IO errors
+2024/07/05 14:20:52 ERROR : Google drive root 'Windows/Imagens': not deleting directories as there were IO errors
+2024/07/05 14:20:52 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+2024/07/05 14:20:52 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         2.2s
+
+2024/07/05 14:20:52 Failed to sync: directory not found
+#Friday, 05 July 2024#
+2024/07/05 14:21:41 INFO  : There was nothing to transfer
+2024/07/05 14:21:41 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5s
+
+2024/07/05 14:21:43 INFO  : There was nothing to transfer
+2024/07/05 14:21:43 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 14:21:45 INFO  : There was nothing to transfer
+2024/07/05 14:21:45 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.4s
+
+#Friday, 05 July 2024#
+2024/07/05 14:21:47 INFO  : There was nothing to transfer
+2024/07/05 14:21:47 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.7s
+
+#Friday, 05 July 2024#
+2024/07/05 14:21:49 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Meus Vídeos: Acesso negado.
+2024/07/05 14:21:49 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:21:49 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:21:49 ERROR : Attempt 1/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:21:49 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Meus Vídeos: Acesso negado.
+2024/07/05 14:21:50 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:21:50 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:21:50 ERROR : Attempt 2/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:21:50 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Meus Vídeos: Acesso negado.
+2024/07/05 14:21:50 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:21:50 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:21:50 ERROR : Attempt 3/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:21:50 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 2 (retrying may help)
+Elapsed time:         2.0s
+
+2024/07/05 14:21:50 Failed to sync with 2 errors: last error was: not deleting files as there were IO errors
+2024/07/05 14:21:51 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Imagens: Acesso negado.
+2024/07/05 14:21:52 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:21:52 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:21:52 ERROR : Attempt 1/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:21:52 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Imagens: Acesso negado.
+2024/07/05 14:21:52 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:21:52 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:21:52 ERROR : Attempt 2/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:21:52 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Imagens: Acesso negado.
+2024/07/05 14:21:52 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:21:52 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:21:52 ERROR : Attempt 3/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:21:52 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 2 (retrying may help)
+Elapsed time:         2.3s
+
+2024/07/05 14:21:52 Failed to sync with 2 errors: last error was: not deleting files as there were IO errors
+2024/07/05 14:21:54 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Músicas: Acesso negado.
+2024/07/05 14:21:54 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:21:54 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:21:54 ERROR : Attempt 1/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:21:54 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Músicas: Acesso negado.
+2024/07/05 14:21:54 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:21:54 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:21:54 ERROR : Attempt 2/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:21:54 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Músicas: Acesso negado.
+2024/07/05 14:21:55 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:21:55 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:21:55 ERROR : Attempt 3/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:21:55 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 2 (retrying may help)
+Elapsed time:         2.0s
+
+2024/07/05 14:21:55 Failed to sync with 2 errors: last error was: not deleting files as there were IO errors
+#Friday, 05 July 2024#
+2024/07/05 14:23:07 INFO  : There was nothing to transfer
+2024/07/05 14:23:07 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.6s
+
+2024/07/05 14:23:09 INFO  : There was nothing to transfer
+2024/07/05 14:23:09 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 14:23:11 INFO  : There was nothing to transfer
+2024/07/05 14:23:11 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 14:23:13 INFO  : There was nothing to transfer
+2024/07/05 14:23:13 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 14:23:15 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Meus Vídeos: Acesso negado.
+2024/07/05 14:23:15 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:23:15 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:23:15 ERROR : Attempt 1/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:23:15 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Meus Vídeos: Acesso negado.
+2024/07/05 14:23:15 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:23:15 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:23:15 ERROR : Attempt 2/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:23:15 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Meus Vídeos: Acesso negado.
+2024/07/05 14:23:16 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:23:16 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:23:16 ERROR : Attempt 3/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:23:16 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 2 (retrying may help)
+Elapsed time:         2.2s
+
+2024/07/05 14:23:16 Failed to sync with 2 errors: last error was: not deleting files as there were IO errors
+2024/07/05 14:23:17 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Imagens: Acesso negado.
+2024/07/05 14:23:17 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:23:17 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:23:17 ERROR : Attempt 1/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:23:17 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Imagens: Acesso negado.
+2024/07/05 14:23:18 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:23:18 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:23:18 ERROR : Attempt 2/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:23:18 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Imagens: Acesso negado.
+2024/07/05 14:23:18 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:23:18 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:23:18 ERROR : Attempt 3/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:23:18 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 2 (retrying may help)
+Elapsed time:         2.1s
+
+2024/07/05 14:23:18 Failed to sync with 2 errors: last error was: not deleting files as there were IO errors
+2024/07/05 14:23:20 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Músicas: Acesso negado.
+2024/07/05 14:23:20 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:23:20 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:23:20 ERROR : Attempt 1/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:23:20 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Músicas: Acesso negado.
+2024/07/05 14:23:20 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:23:20 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:23:20 ERROR : Attempt 2/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:23:20 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Músicas: Acesso negado.
+2024/07/05 14:23:20 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:23:20 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:23:20 ERROR : Attempt 3/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:23:20 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 2 (retrying may help)
+Elapsed time:         2.2s
+
+2024/07/05 14:23:20 Failed to sync with 2 errors: last error was: not deleting files as there were IO errors
+#Friday, 05 July 2024#
+2024/07/05 14:23:57 INFO  : There was nothing to transfer
+2024/07/05 14:23:57 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.6s
+
+2024/07/05 14:23:59 INFO  : There was nothing to transfer
+2024/07/05 14:23:59 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 14:24:01 INFO  : There was nothing to transfer
+2024/07/05 14:24:01 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 14:24:02 INFO  : There was nothing to transfer
+2024/07/05 14:24:02 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 14:24:04 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Meus Vídeos: Acesso negado.
+2024/07/05 14:24:04 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:24:04 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:24:04 ERROR : Attempt 1/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:24:04 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Meus Vídeos: Acesso negado.
+2024/07/05 14:24:05 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:24:05 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:24:05 ERROR : Attempt 2/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:24:05 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Meus Vídeos: Acesso negado.
+2024/07/05 14:24:05 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:24:05 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:24:05 ERROR : Attempt 3/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:24:05 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 2 (retrying may help)
+Elapsed time:         2.2s
+
+2024/07/05 14:24:05 Failed to sync with 2 errors: last error was: not deleting files as there were IO errors
+2024/07/05 14:24:07 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Imagens: Acesso negado.
+2024/07/05 14:24:07 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:24:07 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:24:07 ERROR : Attempt 1/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:24:07 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Imagens: Acesso negado.
+2024/07/05 14:24:07 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:24:07 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:24:07 ERROR : Attempt 2/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:24:07 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Imagens: Acesso negado.
+2024/07/05 14:24:07 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:24:07 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:24:07 ERROR : Attempt 3/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:24:07 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 2 (retrying may help)
+Elapsed time:         2.0s
+
+2024/07/05 14:24:07 Failed to sync with 2 errors: last error was: not deleting files as there were IO errors
+2024/07/05 14:24:09 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Músicas: Acesso negado.
+2024/07/05 14:24:09 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:24:09 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:24:09 ERROR : Attempt 1/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:24:09 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Músicas: Acesso negado.
+2024/07/05 14:24:09 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:24:09 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:24:09 ERROR : Attempt 2/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:24:09 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Músicas: Acesso negado.
+2024/07/05 14:24:10 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:24:10 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:24:10 ERROR : Attempt 3/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:24:10 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 2 (retrying may help)
+Elapsed time:         2.1s
+
+2024/07/05 14:24:10 Failed to sync with 2 errors: last error was: not deleting files as there were IO errors
+2024/07/05 14:24:11 INFO  : There was nothing to transfer
+2024/07/05 14:24:11 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 14:25:19 INFO  : There was nothing to transfer
+2024/07/05 14:25:19 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5s
+
+2024/07/05 14:25:21 INFO  : There was nothing to transfer
+2024/07/05 14:25:21 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 14:25:23 INFO  : There was nothing to transfer
+2024/07/05 14:25:23 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.7s
+
+#Friday, 05 July 2024#
+2024/07/05 14:25:25 INFO  : There was nothing to transfer
+2024/07/05 14:25:25 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.4s
+
+#Friday, 05 July 2024#
+2024/07/05 14:25:27 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Meus Vídeos: Acesso negado.
+2024/07/05 14:25:27 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:25:27 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:25:27 ERROR : Attempt 1/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:25:27 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Meus Vídeos: Acesso negado.
+2024/07/05 14:25:28 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:25:28 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:25:28 ERROR : Attempt 2/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:25:28 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Meus Vídeos: Acesso negado.
+2024/07/05 14:25:28 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:25:28 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:25:28 ERROR : Attempt 3/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:25:28 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 2 (retrying may help)
+Elapsed time:         2.1s
+
+2024/07/05 14:25:28 Failed to sync with 2 errors: last error was: not deleting files as there were IO errors
+2024/07/05 14:25:29 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Imagens: Acesso negado.
+2024/07/05 14:25:30 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:25:30 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:25:30 ERROR : Attempt 1/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:25:30 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Imagens: Acesso negado.
+2024/07/05 14:25:30 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:25:30 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:25:30 ERROR : Attempt 2/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:25:30 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Imagens: Acesso negado.
+2024/07/05 14:25:30 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:25:30 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:25:30 ERROR : Attempt 3/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:25:30 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 2 (retrying may help)
+Elapsed time:         2.1s
+
+2024/07/05 14:25:30 Failed to sync with 2 errors: last error was: not deleting files as there were IO errors
+2024/07/05 14:25:32 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Músicas: Acesso negado.
+2024/07/05 14:25:32 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:25:32 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:25:32 ERROR : Attempt 1/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:25:32 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Músicas: Acesso negado.
+2024/07/05 14:25:32 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:25:32 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:25:32 ERROR : Attempt 2/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:25:32 ERROR : : failed to open directory "": open \\?\C:\Users\Rothmans\Documents\Minhas Músicas: Acesso negado.
+2024/07/05 14:25:32 ERROR : Google drive root 'Windows/Documentos': not deleting files as there were IO errors
+2024/07/05 14:25:32 ERROR : Google drive root 'Windows/Documentos': not deleting directories as there were IO errors
+2024/07/05 14:25:32 ERROR : Attempt 3/3 failed with 2 errors and: not deleting files as there were IO errors
+2024/07/05 14:25:32 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 2 (retrying may help)
+Elapsed time:         2.0s
+
+2024/07/05 14:25:32 Failed to sync with 2 errors: last error was: not deleting files as there were IO errors
+2024/07/05 14:25:36 INFO  : Novo Documento de Texto.txt: Copied (new)
+2024/07/05 14:25:36 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Transferred:            1 / 1, 100%
+Elapsed time:         3.3s
+
+#Friday, 05 July 2024#
+2024/07/05 14:26:50 INFO  : There was nothing to transfer
+2024/07/05 14:26:50 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5s
+
+2024/07/05 14:26:52 INFO  : There was nothing to transfer
+2024/07/05 14:26:52 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.4s
+
+#Friday, 05 July 2024#
+2024/07/05 14:26:54 INFO  : There was nothing to transfer
+2024/07/05 14:26:54 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 14:26:56 INFO  : There was nothing to transfer
+2024/07/05 14:26:56 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.4s
+
+#Friday, 05 July 2024#
+2024/07/05 14:26:57 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/05 14:26:57 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/05 14:26:57 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/05 14:27:01 INFO  : Nova pasta/Novo Documento de Texto.txt: Copied (new)
+2024/07/05 14:27:01 INFO  : Nova pasta/oi.txt: Copied (new)
+2024/07/05 14:27:02 INFO  : Novo Documento de Texto.txt: Deleted
+2024/07/05 14:27:03 INFO  : Nova pasta: Set directory modification time (using DirSetModTime)
+2024/07/05 14:27:03 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Deleted:                1 (files), 0 (dirs), 0 B (freed)
+Transferred:            2 / 2, 100%
+Elapsed time:         6.8s
+
+#Friday, 05 July 2024#
+2024/07/05 14:27:22 INFO  : There was nothing to transfer
+2024/07/05 14:27:22 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.4s
+
+2024/07/05 14:27:24 INFO  : There was nothing to transfer
+2024/07/05 14:27:24 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.4s
+
+#Friday, 05 July 2024#
+2024/07/05 14:27:26 INFO  : There was nothing to transfer
+2024/07/05 14:27:26 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 14:27:28 INFO  : There was nothing to transfer
+2024/07/05 14:27:28 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.4s
+
+#Friday, 05 July 2024#
+2024/07/05 14:27:29 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/05 14:27:29 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/05 14:27:29 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/05 14:27:33 INFO  : Nova pasta/oi.txt: Copied (new)
+2024/07/05 14:27:33 INFO  : Nova pasta/Novo Documento de Texto.txt: Copied (new)
+2024/07/05 14:27:34 INFO  : Nova pasta: Set directory modification time (using DirSetModTime)
+2024/07/05 14:27:34 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Transferred:            2 / 2, 100%
+Elapsed time:         6.0s
+
+#Friday, 05 July 2024#
+2024/07/05 14:29:15 INFO  : Camera Roll/Novo Documento de Texto.txt: Copied (new)
+2024/07/05 14:29:16 INFO  : Camera Roll: Set directory modification time (using DirSetModTime)
+2024/07/05 14:29:16 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Transferred:            1 / 1, 100%
+Elapsed time:         5.6s
+
+#Friday, 05 July 2024#
+2024/07/05 14:29:18 INFO  : There was nothing to transfer
+2024/07/05 14:29:18 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.4s
+
+#Friday, 05 July 2024#
+2024/07/05 14:29:19 INFO  : There was nothing to transfer
+2024/07/05 14:29:19 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.4s
+
+#Friday, 05 July 2024#
+2024/07/05 14:29:21 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/05 14:29:21 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/05 14:29:21 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/05 14:29:22 INFO  : There was nothing to transfer
+2024/07/05 14:29:22 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 2 / 2, 100%
+Elapsed time:         1.7s
+
+#Friday, 05 July 2024#
+2024/07/05 15:13:43 INFO  : desktop.ini: Copied (new)
+2024/07/05 15:13:43 INFO  : 
+Transferred:   	        520 B / 520 B, 100%, 258 B/s, ETA 0s
+Checks:                 1 / 1, 100%
+Transferred:            1 / 1, 100%
+Elapsed time:         6.1s
+
+#Friday, 05 July 2024#
+2024/07/05 15:13:52 INFO  : Nova pasta/testando se chega na nuvem.txt: Copied (new)
+2024/07/05 15:13:53 INFO  : Nova pasta: Set directory modification time (using DirSetModTime)
+2024/07/05 15:13:53 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Transferred:            1 / 1, 100%
+Elapsed time:         9.0s
+
+#Friday, 05 July 2024#
+2024/07/05 15:13:56 INFO  : There was nothing to transfer
+2024/07/05 15:13:56 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         2.9s
+
+#Friday, 05 July 2024#
+2024/07/05 15:13:59 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/05 15:13:59 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/05 15:13:59 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/05 15:14:00 INFO  : There was nothing to transfer
+2024/07/05 15:14:00 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 2 / 2, 100%
+Elapsed time:         3.1s
+

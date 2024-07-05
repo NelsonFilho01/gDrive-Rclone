@@ -7,10 +7,17 @@
 
 # Inverta os diretórios se você costuma sincronizar da nuvem para sua máquina
 
+<<<<<<< HEAD
 DIR_ORIGEM="C:/Users/Rothmans/Videos"  #<-- Alterar aqui (esse diretório é o que você quer sincronizar)
 DIR_DESTINO="gDrive:/Windows/Videos"   #<-- Alterar aqui (esse é o drive que você configurou)
 DIR_MONTAGEM="C:/Users/Rothmans/mount"  #<- Alterar aqui (esse é o diretório para a montagem; ele deve estar vazio)
 
+=======
+DIR_ORIGEM="$HOME/Vídeos" #<-- Diretorio Local
+
+DIR_DESTINO="gDrive:/Windows/Videos"         #<-- Diretorio remoto
+DIR_MONTAGEM="$HOME/"      #<- Diretirio temporario, para montagem
+>>>>>>> f3246fc86652ecc748e34ca15afa5ee3052ef08c
 
 VERDE="\033[32;1m"
 AMARELO="\033[33;1m"

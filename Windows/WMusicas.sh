@@ -7,9 +7,17 @@
 
 # Inverta os diretórios se você costuma sincronizar da nuvem para sua máquina
 
+<<<<<<< HEAD
 DIR_ORIGEM="C:/Users/Rothmans/Music"  #<-- Alterar aqui (esse diretório é o que você quer sincronizar)
 DIR_DESTINO="gDrive:/Windows/Musicas"   #<-- Alterar aqui (esse é o drive que você configurou)
 DIR_MONTAGEM="C:/Users/Rothmans/mount"  #<- Alterar aqui (esse é o diretório para a montagem; ele deve estar vazio)
+=======
+DIR_ORIGEM="$HOME/Músicas" #<-- Alterar aqui (esse diretório é o que você quer sincronizar)
+
+DIR_DESTINO="gDrive:/Windows/Musicas"         #<-- Alterar aqui (esse é o drive que você configurou)
+
+DIR_MONTAGEM="$HOME/"      #<- Alterar aqui (esse é o diretório para a montagem; ele deve estar vazio)
+>>>>>>> f3246fc86652ecc748e34ca15afa5ee3052ef08c
 
 VERDE="\033[32;1m"
 AMARELO="\033[33;1m"

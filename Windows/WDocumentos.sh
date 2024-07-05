@@ -11,6 +11,12 @@ DIR_ORIGEM="C:/Users/Rothmans/Documents"  #<-- Alterar aqui (esse diretório é 
 DIR_DESTINO="gDrive:/Windows/Documentos"   #<-- Alterar aqui (esse é o drive que você configurou)
 DIR_MONTAGEM="C:/Users/Rothmans/mount"  #<- Alterar aqui (esse é o diretório para a montagem; ele deve estar vazio)
 
+<<<<<<< HEAD
+=======
+DIR_DESTINO="gDrive:/Windows/Documentos"         #<-- Alterar aqui (esse é o drive que você configurou)
+
+DIR_MONTAGEM="$HOME/"      #<- Alterar aqui (esse é o diretório para a montagem; ele deve estar vazio)
+>>>>>>> f3246fc86652ecc748e34ca15afa5ee3052ef08c
 
 VERDE="\033[32;1m"
 AMARELO="\033[33;1m"

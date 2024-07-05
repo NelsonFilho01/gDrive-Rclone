@@ -9,7 +9,7 @@
 
 DIR_ORIGEM="$HOME/Imagens" #<-- Alterar aqui (esse diretório é o que você quer sincronizar)
 
-DIR_DESTINO="gDrive:/Linux//Imagens"         #<-- Alterar aqui (esse é o drive que você configurou)
+DIR_DESTINO="gDrive:/Linux/Imagens"         #<-- Alterar aqui (esse é o drive que você configurou)
 
 DIR_MONTAGEM="$HOME/"      #<- Alterar aqui (esse é o diretório para a montagem; ele deve estar vazio)
 

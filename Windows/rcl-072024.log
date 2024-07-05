@@ -949,3 +949,42 @@ Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
 Checks:                 1 / 1, 100%
 Elapsed time:         1.5s
 
+#Friday, 05 July 2024#
+2024/07/05 13:21:54 INFO  : Exemplo-Logo-Snow.PNG: Deleted
+2024/07/05 13:21:54 INFO  : Capturar.PNG: Deleted
+2024/07/05 13:21:54 INFO  : Exemplo-Snow.PNG: Deleted
+2024/07/05 13:21:54 INFO  : Saved Pictures: Removing directory
+2024/07/05 13:21:54 INFO  : Camera Roll: Removing directory
+2024/07/05 13:21:54 INFO  : There was nothing to transfer
+2024/07/05 13:21:54 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 4 / 4, 100%
+Deleted:                3 (files), 2 (dirs), 176.299 KiB (freed)
+Elapsed time:         1.6s
+
+#Friday, 05 July 2024#
+2024/07/05 13:21:56 INFO  : There was nothing to transfer
+2024/07/05 13:21:56 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         1.7s
+
+#Friday, 05 July 2024#
+2024/07/05 13:21:59 INFO  : Captures: Removing directory
+2024/07/05 13:21:59 INFO  : There was nothing to transfer
+2024/07/05 13:21:59 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 2 / 2, 100%
+Deleted:                0 (files), 1 (dirs), 0 B (freed)
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 13:22:00 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/05 13:22:00 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/05 13:22:00 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/05 13:22:01 INFO  : There was nothing to transfer
+2024/07/05 13:22:01 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         1.5s
+

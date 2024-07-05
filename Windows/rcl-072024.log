@@ -609,3 +609,81 @@ Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
 Checks:                 1 / 1, 100%
 Elapsed time:         2.2s
 
+#Friday, 05 July 2024#
+2024/07/05 11:28:23 INFO  : Saved Pictures: Removing directory
+2024/07/05 11:28:23 INFO  : There was nothing to transfer
+2024/07/05 11:28:23 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 3 / 3, 100%
+Deleted:                0 (files), 1 (dirs), 0 B (freed)
+Elapsed time:         2.0s
+
+#Friday, 05 July 2024#
+2024/07/05 11:28:25 INFO  : There was nothing to transfer
+2024/07/05 11:28:25 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         1.5s
+
+#Friday, 05 July 2024#
+2024/07/05 11:28:29 INFO  : Documento sem título.docx: Copied (Rcat, new)
+2024/07/05 11:28:29 INFO  : Captures: Removing directory
+2024/07/05 11:28:29 INFO  : 
+Transferred:   	    5.997 KiB / 5.997 KiB, 100%, 0 B/s, ETA -
+Deleted:                0 (files), 1 (dirs), 0 B (freed)
+Transferred:            2 / 2, 100%
+Elapsed time:         3.3s
+
+#Friday, 05 July 2024#
+2024/07/05 11:28:31 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/05 11:28:31 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/05 11:28:31 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/05 11:28:31 INFO  : There was nothing to transfer
+2024/07/05 11:28:31 INFO  : 
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Elapsed time:         1.7s
+
+#Friday, 05 July 2024#
+2024/07/05 11:33:18 INFO  : Cópia de teste.jpg: Copied (new)
+2024/07/05 11:33:18 INFO  : desktop.ini: Deleted
+2024/07/05 11:33:18 INFO  : Camera Roll/desktop.ini: Deleted
+2024/07/05 11:33:18 INFO  : Capturar.PNG: Deleted
+2024/07/05 11:33:18 INFO  : Saved Pictures: Removing directory
+2024/07/05 11:33:18 INFO  : Camera Roll: Removing directory
+2024/07/05 11:33:18 INFO  : 
+Transferred:   	   10.309 KiB / 10.309 KiB, 100%, 0 B/s, ETA -
+Checks:                 3 / 3, 100%
+Deleted:                3 (files), 2 (dirs), 129.424 KiB (freed)
+Transferred:            1 / 1, 100%
+Elapsed time:         2.4s
+
+#Friday, 05 July 2024#
+2024/07/05 11:33:21 INFO  : Cópia de teste.jpg: Copied (new)
+2024/07/05 11:33:21 INFO  : 
+Transferred:   	   10.309 KiB / 10.309 KiB, 100%, 0 B/s, ETA -
+Transferred:            1 / 1, 100%
+Elapsed time:         2.5s
+
+#Friday, 05 July 2024#
+2024/07/05 11:33:24 INFO  : teste.jpg: Copied (new)
+2024/07/05 11:33:59 INFO  : rclone-v1.67.0-windows-amd64.zip: Copied (new)
+2024/07/05 11:33:59 INFO  : Captures: Removing directory
+2024/07/05 11:33:59 INFO  : 
+Transferred:   	   20.347 MiB / 20.347 MiB, 100%, 1012.297 KiB/s, ETA 0s
+Deleted:                0 (files), 1 (dirs), 0 B (freed)
+Transferred:            2 / 2, 100%
+Elapsed time:        38.1s
+
+#Friday, 05 July 2024#
+2024/07/05 11:34:01 NOTICE: Meus Vídeos: Can't follow symlink without -L/--copy-links
+2024/07/05 11:34:01 NOTICE: Minhas Imagens: Can't follow symlink without -L/--copy-links
+2024/07/05 11:34:01 NOTICE: Minhas Músicas: Can't follow symlink without -L/--copy-links
+2024/07/05 11:34:02 INFO  : Cópia de teste.jpg: Copied (new)
+2024/07/05 11:34:02 INFO  : Teste- Documentos.docx: Deleted
+2024/07/05 11:34:02 INFO  : 
+Transferred:   	   10.309 KiB / 10.309 KiB, 100%, 0 B/s, ETA -
+Checks:                 1 / 1, 100%
+Deleted:                1 (files), 0 (dirs), 5.991 KiB (freed)
+Transferred:            1 / 1, 100%
+Elapsed time:         2.3s
+

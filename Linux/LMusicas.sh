@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # -------------------------------------------------------------------------------------------------------------------------- #
-# ------------------------------------------------ VARIÁVEIS------------------------------------------------- #
+
 
 # Altere aqui para o seu serviço remoto. O padrão é o sincronismo da máquina para nuvem
 
@@ -22,34 +22,6 @@ LOG="$(date +%m%Y)"
 ARQUIVO_LOG="rcl-$LOG.log"
 MENSAGEM_LOG="#$(date "+%A, %d %B %Y")#" 
 
-MENU="
-  $0 [-OPÇÃO]
-    
-    -s  Sincronizar o dispositivo
-    -d  Montar o dispositivo
-    -l  Listar arquivos
-    -v  Verificar arquivos
-    -i  Informações de armazenamento
-    -a  Agendar sincronização e/ou montagem
-    -m  Ver o manual do rclone
-    -c  Configurar o rclone
-    -u  Atualizar o rclone
-    -h  Ajuda deste menu
-"
-AJUDA="
-    $0 [-h] [--help]
-    
-        -s  Sincroniza os arquivos da nuvem <---> máquina local
-        -d  Monta o drive na sua máquina local
-        -l  Lista os arquivos e diretórios da nuvem
-        -v  Verifica diferenças entra a nuvem e a máquina local
-        -i  Exibe informações de armazenamento da nuvem (espaço total, usado, livre)
-        -a  Agenda a sincronização e/ou a montagem com a ferramenta crontab
-        -m  Exibe o manual do rclone
-        -c  Configura o rclone para a nuvem
-        -u  Atualiza o rclone para versão mais recente
-        -h, --help  Exibe esta tela de ajuda e sai
-"
 # -------------------------------------------------------------------------------------------------------------------------- #
 # ------------------------------------------------- TESTES -------------------------------------------------- # 
 #curl instalado?

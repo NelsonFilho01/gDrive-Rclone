@@ -9,13 +9,23 @@
 
 
 
-# Para **Backup** no Windows, rode:
+### Para **Backup** no Windows, rode:
 ```sh
 ./SubirWin.sh
 ```
-# Para **Recuperação** no Windows, rode:
+### Para **Recuperação** no Windows, rode:
 ```sh
-./Recuperar.sh
+./RecuperarWin.sh
+```
+
+### Para **Backup** em todas as distribuições linux, rode:
+```sh
+./SubirLinux.sh
+```
+
+### Para **Recuperação** em todas as distribuições Linux, rode:
+```sh
+./RecuperarLinux.sh
 ```
 
 [Documentação e Mais Informações do Rclone ](https://rclone.org/)

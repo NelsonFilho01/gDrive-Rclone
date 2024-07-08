@@ -18,12 +18,12 @@
 ./RecuperarWin.sh
 ```
 
-### Para **Backup** em todas as distribuições linux, rode:
+### Para **Backup** no linux, rode:
 ```sh
 ./SubirLinux.sh
 ```
 
-### Para **Recuperação** em todas as distribuições Linux, rode:
+### Para **Recuperação** no Linux, rode:
 ```sh
 ./RecuperarLinux.sh
 ```

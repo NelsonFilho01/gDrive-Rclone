@@ -1,5 +1,22 @@
 #!/bin/bash
 
+# -------------------------------------------------------------------------------------------------------------------------- #
+
+#curl instalado?
+[ ! -x "$(which curl)" ] && {
+  echo -e "\n${AMARELO}Verificando dependências...\n${SEMCOR}"
+  echo -e "Precisamos instalar o ${VERDE}Curl${SEMCOR}\n"
+  sudo apt install curl -y
+}
+
+#rclone instalado?
+[ ! -x "$(which rclone)" ] && {
+  echo -e "\n${AMARELO}Instalação do rclone\n"${SEMCOR}
+  curl -O https://downloads.rclone.org/rclone-current-linux-amd64.deb
+  sudo apt install ./rclone-current-linux-amd64.deb -y && sudo apt -f install
+  rm rclone-current-linux-amd64.deb
+}
+# -------------------------------------------------------------------------------------------------------------------------- #
 
 
 

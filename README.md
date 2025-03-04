@@ -2,11 +2,11 @@
 
 
 
-#### O serviço vem configurado por padrão para o Google Drive
+#### O serviço é um cliente personalizado para qualquer nuvem, usando o Rclone
 
-#### É interessante que quem for usar configure um cliente proprio na nuvem desejava
-#### Como por exemplo o Google Cloud API para o Google Drive, pois o Rclone usa um Id de cliente padrão, o que pode deixar seu Backup mais lento
-
+* **[Google Drive](https://github.com/NelsonFilho01/gDrive-Rclone/tree/GoogleDrive)**
+* **[One Drive](https://github.com/NelsonFilho01/gDrive-Rclone/tree/OneDrive)**
+*  **[Google Drive e One Drive Juntos](https://github.com/NelsonFilho01/gDrive-Rclone/tree/OneDrive-GoogleDrive)**
 
 
 ### Para **Backup** no Windows, rode:

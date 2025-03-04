@@ -9,7 +9,7 @@
 
 DIR_ORIGEM="$HOME/Área de trabalho" #<-- Alterar aqui (esse diretório é o que você quer sincronizar)
 
-DIR_DESTINO="gDrive:/Linux/Area-de-Trabalho"         #<-- Alterar aqui (esse é o drive que você configurou)
+DIR_DESTINO="OneDrive:/Linux/Area-de-Trabalho"         #<-- Alterar aqui (esse é o drive que você configurou)
 
 DIR_MONTAGEM="$HOME/"      #<- Alterar aqui (esse é o diretório para a montagem; ele deve estar vazio)
 

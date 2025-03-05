@@ -19,62 +19,114 @@
 }
 # -------------------------------------------------------------------------------------------------------------------------- #
 
-
 # Sincronizando Área de Trabalho
-chmod +x LAreaTrabalho.sh
+chmod +x GLAreaTrabalho.sh
 echo "Sincronizando Área de Trabalho..."
-./LAreaTrabalho.sh -s
+./GLAreaTrabalho.sh -s
 if [ $? -ne 0 ]; then
     echo "Erro ao sincronizar Área de Trabalho. Verifique o log para mais detalhes."
     exit 1
 fi
 echo "Area de Trabalho já foi"
 
+# -------------------------------------------------------------------------------------------------------------------------- #
 
+chmod +x DLAreaTrabalho.sh
+echo "Sincronizando Área de Trabalho..."
+./DLAreaTrabalho.sh -s
+if [ $? -ne 0 ]; then
+    echo "Erro ao sincronizar Área de Trabalho. Verifique o log para mais detalhes."
+    exit 1
+fi
+echo "Area de Trabalho já foi"
+# -------------------------------------------------------------------------------------------------------------------------- #
 
-chmod +x LImagens.sh
+# -------------------------------------------------------------------------------------------------------------------------- #
+chmod +x GLImagens.sh
 echo "Sincronizando Imagens..."
-./LImagens.sh -s
+./GLImagens.sh -s
 if [ $? -ne 0 ]; then
     echo "Erro ao sincronizar Área de Trabalho. Verifique o log para mais detalhes."
     exit 1
 fi
 echo "Imagens.sh foi"
 
+# -------------------------------------------------------------------------------------------------------------------------- #
+chmod +x DLImagens.sh
+echo "Sincronizando Imagens..."
+./DLImagens.sh -s
+if [ $? -ne 0 ]; then
+    echo "Erro ao sincronizar Área de Trabalho. Verifique o log para mais detalhes."
+    exit 1
+fi
+echo "Imagens.sh foi"
+# -------------------------------------------------------------------------------------------------------------------------- #
 
-
+# -------------------------------------------------------------------------------------------------------------------------- #
 # Sincronizando Músicas
-chmod +x LMusicas.sh
+chmod +x GLMusicas.sh
 echo "Sincronizando Músicas..."
-./LMusicas.sh -s
+./GLMusicas.sh -s
+if [ $? -ne 0 ]; then
+    echo "Erro ao sincronizar Músicas. Verifique o log para mais detalhes."
+    exit 1
+fi
+echo "Musicas já foi"
+# -------------------------------------------------------------------------------------------------------------------------- #
+chmod +x DLMusicas.sh
+echo "Sincronizando Músicas..."
+./DLMusicas.sh -s
 if [ $? -ne 0 ]; then
     echo "Erro ao sincronizar Músicas. Verifique o log para mais detalhes."
     exit 1
 fi
 echo "Musicas já foi"
 
+# -------------------------------------------------------------------------------------------------------------------------- #
 
-
+# -------------------------------------------------------------------------------------------------------------------------- #
 # Sincronizando Vídeos
-chmod +x LVideos.sh
+chmod +x GLVideos.sh
 echo "Sincronizando Vídeos..."
-./LVideos.sh -s
+./GLVideos.sh -s
 if [ $? -ne 0 ]; then
     echo "Erro ao sincronizar Vídeos. Verifique o log para mais detalhes."
     exit 1
 fi
 echo "Videos já foi"
 
+# -------------------------------------------------------------------------------------------------------------------------- #
+chmod +x DLVideos.sh
+echo "Sincronizando Vídeos..."
+./DLVideos.sh -s
+if [ $? -ne 0 ]; then
+    echo "Erro ao sincronizar Vídeos. Verifique o log para mais detalhes."
+    exit 1
+fi
+echo "Videos já foi"
+# -------------------------------------------------------------------------------------------------------------------------- #
 
+# -------------------------------------------------------------------------------------------------------------------------- #
 # Sincronizando Documentos
-chmod +x LDocumentos.sh
+chmod +x GLDocumentos.sh
 echo "Sincronizando Documentos..."
-./LDocumentos.sh -s
+./GLDocumentos.sh -s
 if [ $? -ne 0 ]; then
     echo "Erro ao sincronizar Documentos. Verifique o log para mais detalhes."
     exit 1
 fi
 echo "Documentos já foi"
+
+# -------------------------------------------------------------------------------------------------------------------------- #
+chmod +x DLDocumentos.sh
+echo "Sincronizando Documentos..."
+./DLDocumentos.sh -s
+if [ $? -ne 0 ]; then
+    echo "Erro ao sincronizar Documentos. Verifique o log para mais detalhes."
+    exit 1
+fi
+echo "Documentos já foi"
+# -------------------------------------------------------------------------------------------------------------------------- #
 
 # Finalizar
 echo "!!!!!BACKUP CONCLUÍDO!!!!!!"
